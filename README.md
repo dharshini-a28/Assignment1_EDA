@@ -111,9 +111,7 @@ Superstore-Sales-Analysis/
 ├── 📓 program1.ipynb
 ├── 📄 samplesuperstore.csv
 └── 📖 README.md
-💡 Conclusion<img width="873" height="492" alt="WhatsApp Image 2026-08-28 at 14 23 41" src="https://github.com/user-attachments/assets/f2c851e5-efda-432c-b218-787c713c54f5" />
-<img width="880" height="559" alt="p1" src="https://github.com/user-attachments/assets/1869f4c6-7de2-4587-8d52-1c1ab22742c0" />
-
+💡 Conclusion
 This project demonstrates how Python can be used to analyze real-world sales data.
 
 The analysis helps understand:
@@ -125,5 +123,8 @@ Discounts and profit
 Delivery time
 Category-wise sales
 Screenshot 2026-08-28 142820 Screenshot 2026-08-28 142759 Overall, the project provides a simple and clear approach to **exploratory data analysis and visualization using Python**.
+<img width="873" height="492" alt="WhatsApp Image 2026-08-28 at 14 23 41" src="https://github.com/user-attachments/assets/f2c851e5-efda-432c-b218-787c713c54f5" />
+<img width="880" height="559" alt="p1" src="https://github.com/user-attachments/assets/1869f4c6-7de2-4587-8d52-1c1ab22742c0" />
+
 👩‍💻 Project
 Superstore Sales Data Analysis Developed using Python & Data Analysis Libraries
